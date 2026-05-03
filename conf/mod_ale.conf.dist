@@ -62,7 +62,7 @@
 
 ALE.Enabled = true
 ALE.TraceBack = false
-ALE.ScriptPath = "lua_scripts"
+ALE.ScriptPath = "/home/acore/wotlk/run/bin/lua_scripts"
 ALE.PlayerAnnounceReload = false
 ALE.RequirePaths = ""
 ALE.RequireCPaths = ""
